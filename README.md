@@ -1,4 +1,4 @@
-# Simulated-Annealing
+# Simulated Annealing
 
 # Reference
 If any code is found useful in this repository, please read the research article at https://pubs.acs.org/doi/10.1021/acs.jpcc.7b07861 and cite:
